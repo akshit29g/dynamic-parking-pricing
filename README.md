@@ -30,5 +30,7 @@ We implement a multi-stage dynamic pricing model to:
 ---
 
 ## 📐 System Architecture
+![Architecture Diagram](architecture(2).png)
+
 
 
